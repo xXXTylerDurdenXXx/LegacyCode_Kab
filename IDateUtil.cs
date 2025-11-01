@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace LegacyCode_Kab
 {
-    public interface Utils
-    {
+    
+    
         /// <summary>
         /// Интерфейс для утилит работы с датами.
         /// </summary>
@@ -34,4 +34,4 @@ namespace LegacyCode_Kab
             MmDdYyyy
         }
     }
-}
+
